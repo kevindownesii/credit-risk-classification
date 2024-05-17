@@ -1,6 +1,6 @@
 # credit-risk-classification
 
-* Data Analysis Steps
+## Data Analysis Steps
 
 Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
 
@@ -15,7 +15,7 @@ Generate a confusion matrix.
 
 Print the classification report.
 
-* CREDIT RISK ANALYSIS REPORT
+### CREDIT RISK ANALYSIS REPORT
 
 ## Overview of the Analysis
 
